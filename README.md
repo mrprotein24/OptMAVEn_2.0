@@ -1,10 +1,8 @@
 Optmaven-2.0
 16 June 2018
-Written by Matthew F. Allan and Ratul Chowdhury with contributions from Tong Li and Robert J. Pantazes
-Costas Maranas Laboratory, Department of Chemical Engineering
-The Pennsylvania State University
-University Park, PA 16802
+(c) Ratul Chowdhury & Matthew Alan. Developed 2018. Costas Maranas Lab @PennState
 
+Chowdhury, R., Allan, M.F. and Maranas, C.D., 2018. OptMAVEn-2.0: de novo design of variable antibody regions against targeted antigen epitopes. Antibodies, 7(3), p.23. https://www.mdpi.com/2073-4468/7/3/23
 
 DEPENDENCIES
 
